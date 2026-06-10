@@ -6,16 +6,16 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Solved-2%20%2F%20150-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-1-orange?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-6%20%2F%20150-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-2-orange?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 
 ### 📈 Current Milestone Tracks
-- [x] **Arrays & Hashing** (2 / 9 completed)
-- [ ] **Two Pointers** (0 / 5 completed)
-- [ ] **Sliding Window** (0 / 4 completed)
-- [ ] **Stack** (0 / 3 completed)
+- [ ] **Arrays & Hashing** (3 completed)
+- [ ] **Two Pointers** (1 completed)
+- [ ] **Linked List** (1 completed)
+- [ ] **Sliding Window / Hash Table** (1 completed)
 
 ---
 
@@ -27,9 +27,11 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 <summary>🟢 <b>Easy Tier Solutions</b> (Click to expand)</summary>
 <br>
 
-| # | Problem | Language | Solution File | Complexity |
+| # | Problem | Category | Language | Solution File |
 |---|---|---|---|---|
-| 1 | Two Sum | Python | [solution.py](./Two_Sum/solution.py) | Time: O(n) / Space: O(n) |
+| 1 | Two Sum | Array | Python | [1.two-sum.py](./Easy/Array/1.two-sum.py) |
+| 121 | Best Time to Buy and Sell Stock | Array | Python | [121.best-time-to-buy-and-sell.py](./Easy/Array/121.best-time-to-buy-and-sell.py) |
+| 125 | Valid Palindrome | Two Pointers | Python | [125.valid-palindrome.py](./Easy/Two%20Pointers/125.valid-palindrome.py) |
 
 </details>
 
@@ -37,9 +39,10 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 <summary>🟡 <b>Medium Tier Solutions</b> (Click to expand)</summary>
 <br>
 
-| # | Problem | Language | Solution File | Complexity |
+| # | Problem | Category | Language | Solution File |
 |---|---|---|---|---|
-| 128 | Longest Consecutive Sequence | Python | [solution.py](./Longest_Consecutive/solution.py) | Time: O(n) / Space: O(n) |
+| 2 | Add Two Numbers | Linked List | Python | [2.add-two-numbers.py](./Medium/Linked%20List/2.add-two-numbers.py) |
+| 3 | Longest Substr. Without Repeating Chars | Hash Table | Python | [3.longest-substring-without-repeating-characters.py](./Medium/Hash%20Table/3.longest-substring-without-repeating-characters.py) |
 
 </details>
 
@@ -47,7 +50,9 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 <summary>🔴 <b>Hard Tier Solutions</b> (Click to expand)</summary>
 <br>
 
-> *No hard problems tackled yet. Initializing strategy engine...*
+| # | Problem | Category | Language | Solution File |
+|---|---|---|---|---|
+| 42 | Trapping Rain Water | Array | Python | [42.trapping-rain-water.py](./Hard/Array/42.trapping-rain-water.py) |
 
 </details>
 
