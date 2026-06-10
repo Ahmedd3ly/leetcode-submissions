@@ -6,9 +6,9 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Solved-6%20%2F%20150-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-3-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-2-orange?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-16%20%2F%20150-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-11-orange?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
 
 ### 📈 Current Milestone Tracks
