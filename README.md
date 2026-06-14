@@ -6,16 +6,17 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 
 ## 📊 Progress Dashboard
 
-![Total Solved](https://img.shields.io/badge/Solved-16%20%2F%20150-blue?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-11-orange?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-1-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-22%20%2F%20150-blue?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-6-brightgreen?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-13-orange?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-3-red?style=for-the-badge)
 
 ### 📈 Current Milestone Tracks
-- [ ] **Arrays & Hashing** (11 completed)
+- [ ] **Arrays & Hashing** (14 completed)
+- [ ] **Sliding Window** (5 completed)
 - [ ] **Two Pointers** (2 completed)
+- [ ] **Stack** (1 completed)
 - [ ] **Linked List** (1 completed)
-- [ ] **Sliding Window** (1 completed)
 - [ ] **Top K / Heap Problems** (1 completed)
 ---
 
@@ -30,6 +31,7 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 | # | Problem | Category | Language | Solution File |
 |---|---|---|---|---|
 | 1 | Two Sum | Array | Python | [1.two-sum.py](./Easy/Array/1.two-sum.py) |
+| 20 | Valid Parentheses | String / Stack | Python | [20.valid-parentheses.py](./Easy/String/20.valid-parentheses.py) |
 | 121 | Best Time to Buy and Sell Stock | Array | Python | [121.best-time-to-buy-and-sell.py](./Easy/Array/121.best-time-to-buy-and-sell.py) |
 | 125 | Valid Palindrome | Two Pointers | Python | [125.valid-palindrome.py](./Easy/Two%20Pointers/125.valid-palindrome.py) |
 | 217 | Contains Duplicate | Array | Python | [217.contains-duplicate.py](./Easy/Array/217.contains-duplicate.py) |
@@ -54,6 +56,8 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 | 238 | Product of Array Except Self | Array | Python | [238.product-of-array-except-self.py](./Medium/Array/238.product-of-array-except-self.py) |
 | 271 | Encode and Decode Strings | Array / Design | Python | [271.encode-and-decode-strings.py](./Medium/Array/271.encode-and-decode-strings.py) |
 | 347 | Top K Frequent Elements | Array / Hash Table | Python | [347.top-k-frequent-elements.py](./Medium/Array/347.top-k-frequent-elements.py) |
+| 424 | Longest Repeating Character Replacement | Hash Table / Sliding Window | Python | [424.longest-repeating-charachter-replacement.py](./Medium/Hash%20Table/424.longest-repeating-charachter-replacement.py) |
+| 567 | Permutation in String | Hash Table / Sliding Window | Python | [567.permutation-in-string.py](./Medium/Hash%20Table/567.permutation-in-string.py) |
 
 </details>
 
@@ -64,6 +68,8 @@ Welcome to my central repository for tracking LeetCode algorithm progressions. A
 | # | Problem | Category | Language | Solution File |
 |---|---|---|---|---|
 | 42 | Trapping Rain Water | Array | Python | [42.trapping-rain-water.py](./Hard/Array/42.trapping-rain-water.py) |
+| 76 | Minimum Window Substring | Hash Table / Sliding Window | Python | [76.minimum-window-substring.py](./Hard/Hash%20Table/76.minimum-window-substring.py) |
+| 239 | Sliding Window Maximum | Array / Sliding Window | Python | [239.sliding-window-maximum.py](./Hard/Array/239.sliding-window-maximum.py) |
 
 </details>
 
@@ -80,16 +86,3 @@ This repository runs seamlessly inside a decoupled Linux workflow using the foll
 To pull a fresh problem and work locally:
 ```bash
 leetcode pick <problem-id>
-```
-
-Run local tests:
-
-```bash
-leetcode test <problem-id>
-```
-
-Submit directly from terminal:
-
-```bash
-leetcode submit <problem-id>
-```
